@@ -83,8 +83,8 @@ function PdfApp() {
 
   const handlePreview = async () => {
     setIsLoading(true);
-    // const ip = "http://127.0.0.1:3000";
-    const ip = "http://192.168.1.38:8080";
+    const ip = "https://nest-pdf-service-145814948088.asia-southeast1.run.app";
+    // const ip = "http://192.168.1.38:8080";
     // const ip = "http://172.20.10.3:8082";
     //
 
